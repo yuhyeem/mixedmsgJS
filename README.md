@@ -1,6 +1,4 @@
 # Mixed Messages JS Portfolio Project
-
-
 ##Goals of this project
 
 1. Show user a random message each time the js file is ran.
